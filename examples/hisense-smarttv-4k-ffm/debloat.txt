@@ -58,3 +58,5 @@ com.google.android.katniss             # Google Assistant and voice search
 # com.hisense.uifac, com.hisense.tv.rcs, com.hisense.mixbar, com.hisense.tv.dlna,
 # com.jamdeo.tv.mediacenter (USB media), com.hisense.audio_update_service, com.vt.eula,
 # com.hisense.tv.videocolor.
+
+com.google.android.tungsten.setupwraith
